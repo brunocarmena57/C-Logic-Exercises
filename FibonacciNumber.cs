@@ -11,7 +11,6 @@ class Program
             Console.Write(Fibonacci(i) + " ");
         }
     }
-
     static int Fibonacci(int n)
     {
         if (n <= 1)
