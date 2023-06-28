@@ -1,5 +1,6 @@
 using System;
 
+
 // Find the missing number, being in this case #3
 
 namespace FindMissingNumber
