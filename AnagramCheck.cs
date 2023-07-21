@@ -1,5 +1,4 @@
 using System;
-
 public class AnagramChecker
 {
     public static bool AreAnagrams(string str1, string str2)
