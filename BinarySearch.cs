@@ -1,6 +1,5 @@
 using System;
 
-
 class Program
 {
     static void Main(string[] args)
@@ -42,7 +41,6 @@ class Program
                 right = mid - 1;
             }
         }
-
         // target value not found in array
         return -1;
     }
